@@ -19,7 +19,7 @@ A Python-based web scraping and data extraction tool designed to gather real est
 Make sure you have Python installed. Run the following command to install the required libraries:
 
 ```bash
-pip install requests beautifulsoup4 pandas openpyxl```
+pip install requests beautifulsoup4 pandas openpyxl
 
 How to Run
 Run the script using the following command:python real_estate_scraper.py
